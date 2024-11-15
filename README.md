@@ -49,6 +49,7 @@ Isso irá criar uma tabela de 100 linhas com os campos Datetime_, Column_A e Col
 
 Por fim, para exportar o arquivo csv gerado, clique no ícone mais próximo da tabela, e ele será exportado para onde quiser.
 
+![alt](https://github.com/Yurnerosk/MySQL_Tool/blob/main/images/image_3.png)
 
 Caso seja necessário separar o arquivo em mais partições, é possível fazer um offset e fazer com que a tabela pule as linhas anteriores e pegue o que esteja faltando. No exemplo a seguir, serão puladas as 100 primeiras linhas que já foram exportadas, e o código irá pegar as próximas 100.
 
